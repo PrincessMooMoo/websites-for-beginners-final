@@ -1,0 +1,36 @@
+.contact-container{
+    margin-top: 100px;
+    padding: 50px;
+    color: #0F5EB9;
+}
+
+.info {
+    width: 50%;
+    position: absolute;
+    text-align: center;
+}
+
+.info-map {
+    height: 500px;
+    position: relative;
+}
+
+.map {
+    width: 50%;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.btn{
+    border-radius:;
+    box-shadow: 3px 5px 3px gray;
+}
+
+.button-link{
+    background-color: white;
+    color: red;
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+    padding: 10px;
+}
